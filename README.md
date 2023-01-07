@@ -4,14 +4,15 @@ As I am mostly focusing on coding and the data science technique to understand d
 Following are the few articles which will help you to get basic understanding and theoretical concept about Logistic Regression and other classification models models 
 
 # Reference materials 
-- 4 Types of Classification Tasks in Machine Learning - MachineLearningMastery.com
-- A Complete guide to Understand Classification in Machine Learning (analyticsvidhya.com)
-- Classification In Machine Learning | by Amit Upadhyay | Analytics Vidhya | Medium
-- Classification In Machine Learning | Classification Algorithms | Edureka
+- [4 Types of Classification Tasks in Machine Learning - MachineLearningMastery.com](https://machinelearningmastery.com/types-of-classification-in-machine-learning/)
+- [A Complete guide to Understand Classification in Machine Learning (analyticsvidhya.com)](https://www.analyticsvidhya.com/blog/2021/09/a-complete-guide-to-understand-classification-in-machine-learning/)
+- [Classification In Machine Learning | by Amit Upadhyay | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/classification-in-machine-learning-ed30753d9461)
+- [Classification In Machine Learning | Classification Algorithms | Edureka](https://www.edureka.co/blog/classification-in-machine-learning/)
 
 
 # Simple and short best video
--  StatQuest: Logistic Regression - YouTube
+-  [StatQuest: Logistic Regression - YouTube]
+(https://www.youtube.com/watch?v=yIYKR4sgzI8)
 
 
 
