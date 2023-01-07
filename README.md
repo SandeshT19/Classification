@@ -1,17 +1,18 @@
-# Linear Regression-
-understanding and predicting the Laptop prices based on features 
-
-As I am mostly focusing on coding and the data science technique to understand data and get most of it using Liner models as per my knowledge and understanding in this notebook. I have skip the theory part for the Liner Regression and it functioning which you will get plenty of theoretical material on internet.
-Following are the few articles which will help you to get basic understanding and theoretical concept about Liner Regression models 
+# Machine Learning Classification Models
+In this project I am going to understand and analyze the data of bank customers and identify the customers who will leave their credit card services and reason for same and any majors to prevent this using the available data.
+As I am mostly focusing on coding and the data science technique to understand data and get most of it using Classification models as per my knowledge and understanding in this notebook. I have skip the theory part for the Classification and it functioning which you will get plenty of theoretical material on internet.
+Following are the few articles which will help you to get basic understanding and theoretical concept about Logistic Regression and other classification models models 
 
 # Reference materials 
-- https://machinelearningmastery.com/linear-regression-for-machine-learning/
-- https://medium.com/analytics-vidhya/understanding-the-linear-regression-808c1f6941c0
-- https://medium.datadriveninvestor.com/basics-of-linear-regression-9b529aeaa0a5
-- https://www.simplilearn.com/tutorials/scikit-learn-tutorial/sklearn-linear-regression-with-examples
+-  4 Types of Classification Tasks in Machine Learning - MachineLearningMastery.com
+- A Complete guide to Understand Classification in Machine Learning (analyticsvidhya.com)
+- Classification In Machine Learning | by Amit Upadhyay | Analytics Vidhya | Medium
+- Classification In Machine Learning | Classification Algorithms | Edureka
 
-#Simple and short best video
-- https://www.youtube.com/watch?v=nk2CQITm_eo
+# Simple and short best video
+-  StatQuest: Logistic Regression - YouTube
+
+
 
 
 
