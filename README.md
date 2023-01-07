@@ -1,7 +1,7 @@
 # Machine Learning Classification Models
 In this project I am going to demonstrat and analyze the data of bank customers and identify the customers who will leave their credit card services and reason for same and any majors to prevent this using the available data.
 
-As I am mostly focusing on coding and the data science technique to understand data and get most of it using Classification models as per my knowledge and understanding in this notebook. I have skipped the theory part for the Classification and it functioning which you will get plenty of theoretical material on internet.
+As I am mostly focusing on coding and the data science technique to understand data and get most of it using Classification models as per my knowledge and understanding in this notebook. I have skipped the theory part for the Classification and it's functioning which you will get plenty of theoretical material on internet.
 Following are the few articles which will help you to get basic understanding and theoretical concept about Logistic Regression and other classification models models 
 
 # Reference materials 
